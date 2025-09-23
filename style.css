@@ -1,0 +1,47 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #333;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+}
+
+#movie-container {
+  display: flex;
+}
+
+aside {
+  width: 30%;
+  border-right: 1px solid #ccc;
+  padding: 1rem;
+}
+
+main#movie-details {
+  width: 70%;
+  padding: 1rem;
+}
+
+#films {
+  list-style: none;
+  padding: 0;
+}
+
+.film.item {
+  margin-bottom: 0.5rem;
+  cursor: pointer;
+}
+
+.sold-out {
+  color: red;
+  text-decoration: line-through;
+}
+
+img {
+  max-width: 300px;
+  height: auto;
+}

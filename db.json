@@ -1,0 +1,20 @@
+{
+  "films": [
+    {
+      "id": "1",
+      "title": "Kung Fu Panda",
+      "runtime": "92",
+      "capacity": 100,
+      "showtime": "05:00PM",
+      "tickets_sold": 20,
+      "description": "Po, a bumbling panda, is chosen to fulfill an ancient prophecy and become the Dragon Warrior to defend the Valley of Peace from the evil Tai Lung. Along the way, he learns about believing in oneself and discovers that heroes come in all shapes and sizes.",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/6/67/Kung_Fu_Panda.jpg",
+      "director": ["John Stevenson", "Mark Osborne"],
+      "producers": ["Melissa Cobb"],
+      "writers": ["Jonathan Aibel", "Glenn Berger"],
+      "cast": ["Jack Black", "Dustin Hoffman", "Angelina Jolie", "Ian McShane", "Seth Rogen", "Lucy Liu", "James Hong", "Jackie Chan"],
+      "release_year": "2008"
+    }
+  ],
+  "tickets": []
+}
